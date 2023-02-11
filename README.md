@@ -1,2 +1,2 @@
-# cse231
+# cse231L
 this repo contain my lab work
